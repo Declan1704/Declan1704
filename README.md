@@ -4,6 +4,7 @@
 - Participated in hackathons like Smart India hackathon and many more...
 - Ive won 2nd place in GirlGeekHack hackathon
 - 📫 How to reach me razer091617@gmail.com
+- Third Place in Coding Competition by IEEE
 
 [![An image of @declan1704's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/declan1704)](https://holopin.io/@declan1704)
 <!---

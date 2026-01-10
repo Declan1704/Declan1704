@@ -17,6 +17,8 @@
   </a>
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=Declan1704&color=blue)
+
 ---
 
 ## 🚀 About Me
@@ -97,6 +99,7 @@ These are not tutorials — they are **industry-grade systems**.
 
 
 
+
 ## 🤝 Let’s Connect
 
 📧 **declanrodrigues17@gmail.com**  
@@ -116,3 +119,5 @@ If you’re building something meaningful — I’d love to contribute 🚀
 Declan1704/Declan1704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
